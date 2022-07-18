@@ -1,6 +1,6 @@
 # Readme.md
 
-Hi there 👋, I am Hassan
+Hi there 👋, I am Talha
 
 <a href="https://wakatime.com/badge/user/70c06e61-45d3-4163-8381-fc17f4f821cf/project/0ddd644f-7d8a-470d-aa6f-c9ad69e39552"><img src="https://wakatime.com/badge/user/70c06e61-45d3-4163-8381-fc17f4f821cf/project/0ddd644f-7d8a-470d-aa6f-c9ad69e39552.svg" alt="wakatime"></a>
 
